@@ -8,7 +8,7 @@ Indonesia 🇮🇩 · Building production health & environmental data systems ·
 
 I work at the intersection of **bioinformatics, software engineering, and applied biology** — building production systems that turn biological data into decisions. My current focus areas:
 
-- 🧬 **Precision genomics & nutritions** — polygenic risk score pipelines, GWAS analysis, genomic testing APIs
+- 🧬 **Precision genomics & nutrition** — polygenic risk score pipelines, GWAS analysis, genomic testing APIs
 - 🏥 **Health information systems** — multi-tenant electronic medical record platforms with international medical coding standards (ICD-10, LOINC, KFA)
 - 🌿 **Microalgae bioinformatics & sustainability** — strain characterisation, growth kinetics modelling, IoT-based monitoring systems
 - 🤖 **Machine learning for biology** — applying ML methods to biological signal extraction and prediction
