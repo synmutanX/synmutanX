@@ -2,7 +2,7 @@
 
 **Bioinformatic Engineer · Back-End Developer · Biotechnologist**
 
-Indonesia 🇮🇩 · Building production health & environmental data systems · Open to research collaboration
+Indonesia 🇮🇩 · Building production health & environmental data systems · Open to collaboration
 
 ---
 
