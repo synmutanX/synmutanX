@@ -1,6 +1,6 @@
 # Sofyan Maulana
 
-**Bioinformatic Engineer · Back-End Developer · Biotechnologist**
+**Bioinformatics Engineer · Back-End Developer · Biotechnologist**
 
 Indonesia 🇮🇩 · Building production health & environmental data systems · Open to collaboration
 
